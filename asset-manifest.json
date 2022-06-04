@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/minihackathon-2022/static/css/main.4eaa5642.css",
+    "main.css": "/minihackathon-2022/static/css/main.57cc8cd4.css",
     "main.js": "/minihackathon-2022/static/js/main.24e7f06c.js",
     "static/media/mini_hackathon_logo.png": "/minihackathon-2022/static/media/mini_hackathon_logo.6f8f1df3eaec28cee368.png",
     "static/media/mlsa_logo.png": "/minihackathon-2022/static/media/mlsa_logo.6876beb746e3c3a28461.png",
@@ -17,11 +17,11 @@
     "static/media/company_logo.webp": "/minihackathon-2022/static/media/company_logo.935c9c0724ad1966ebbb.webp",
     "static/media/revicons.woff": "/minihackathon-2022/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/minihackathon-2022/index.html",
-    "main.4eaa5642.css.map": "/minihackathon-2022/static/css/main.4eaa5642.css.map",
+    "main.57cc8cd4.css.map": "/minihackathon-2022/static/css/main.57cc8cd4.css.map",
     "main.24e7f06c.js.map": "/minihackathon-2022/static/js/main.24e7f06c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eaa5642.css",
+    "static/css/main.57cc8cd4.css",
     "static/js/main.24e7f06c.js"
   ]
 }
