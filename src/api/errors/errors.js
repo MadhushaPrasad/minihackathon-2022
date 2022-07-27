@@ -6,4 +6,10 @@ class EmailExists extends Error {
 	}
 }
 
-export { EmailExists };
+class TicketDoesNotExist extends Error {
+	constructor() {
+		super("Team doesn't exist.");
+	}
+}
+
+export { EmailExists, TicketDoesNotExist };
